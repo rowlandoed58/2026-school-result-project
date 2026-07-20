@@ -1,0 +1,55 @@
+STUDENT RESULT PROCESSOR — ANSWER KEY (extended)
+======================================================
+
+1) PER-STUDENT AVERAGE & GRADE
+
+   Chidi Okafor         avg= 71.00  grade=A
+   Amina Bello          avg= 89.60  grade=A
+   Tunde Adeyemi        avg= 46.20  grade=D
+   Ngozi Eze            avg= 69.20  grade=B
+   Ibrahim Musa         avg= 81.60  grade=A
+   Blessing Effiong     avg= 57.80  grade=C
+   Emeka Nwankwo        avg= 41.60  grade=F
+   Fatima Sani          avg= 73.00  grade=A
+
+2) CLASS AVERAGE PER SUBJECT
+
+   Mathematics     class avg = 66.75
+   English         class avg = 67.88
+   Physics         class avg = 64.38
+   Chemistry       class avg = 64.75
+   Biology         class avg = 67.50
+
+3) TOP STUDENT (highest overall average)
+
+   Amina Bello  (89.60)
+
+4) PASS / FAIL COUNT (pass = overall avg >= 50)
+
+   Passed: 6    Failed: 2
+
+5) STUDENT LEADERBOARD (highest to lowest average)
+
+   1. Amina Bello           89.60  (A)
+   2. Ibrahim Musa          81.60  (A)
+   3. Fatima Sani           73.00  (A)
+   4. Chidi Okafor          71.00  (A)
+   5. Ngozi Eze             69.20  (B)
+   6. Blessing Effiong      57.80  (C)
+   7. Tunde Adeyemi         46.20  (D)
+   8. Emeka Nwankwo         41.60  (F)
+
+6) SUBJECTS RANKED HARDEST TO EASIEST (lowest avg = hardest)
+
+   1. Physics          64.38  <- hardest
+   2. Chemistry        64.75
+   3. Mathematics      66.75
+   4. Biology          67.50
+   5. English          67.88  <- easiest
+
+7) OVERALL CLASS AVERAGE (all scores): 66.25
+
+--- English Summary ---
+Class average : 67.88
+Highest score : 91.0 (Amina Bello)
+Lowest score  : 43.0 (Emeka Nwankwo)
